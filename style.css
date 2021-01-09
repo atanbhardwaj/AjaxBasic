@@ -1,0 +1,30 @@
+#form-div
+{
+	position: relative;
+	left:30%;
+	padding:30px;
+	background-color: yellow;
+	width: 400px;
+	border-style: solid;
+	margin-top: 10px;
+	height: 500px;
+}
+
+#sb
+{
+	margin-top: 80px;
+}
+
+#form-div div
+{
+	margin:15px;
+	margin-top: 35px;
+}
+
+input, select
+{
+	display: block;
+	width: 100%;
+	padding:10px;
+	border-radius: 5px;
+}
